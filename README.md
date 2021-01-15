@@ -1,4 +1,3 @@
-# big-data-dev
 # Vignesh
 ## Current
 I am currently pursuing my final semester of the Masters in Applied Computer Science program and I have been in this program since spring 2020.
