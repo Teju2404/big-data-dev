@@ -6,7 +6,7 @@ I was born and brought up in the District named Nalgonda of Telangana state in I
 ## Plans
 I would like to work as a Full-stack developer in a reputed company.
 ## Links
-LinkedIn: https://www.linkedin.com/in/vigneshwar-reddy-71a93a140/   
+- [LinkedIn](https://www.linkedin.com/in/vigneshwar-reddy-71a93a140/)   
 
-GitHub: https://github.com/vigneshwar6666    
+- [GitHub](https://github.com/vigneshwar6666)    
 ![](https://github.com/vigneshwar6666/big-data-dev/blob/main/Vignesh.jpg)  
